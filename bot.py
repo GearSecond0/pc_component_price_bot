@@ -62,12 +62,6 @@ MessageLoop(bot, {'chat': control_text,
                   'callback_query': on_callback_query}).run_as_thread()
 
 
-            #soup = bs4.BeautifulSoup(sorgente)
-    #elenco = soup.findAll('span id')
-    #if elenco:
-            #for a in elenco:
-            #print(a)
-
 
 
 

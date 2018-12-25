@@ -5,7 +5,7 @@ from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 import urllib.request
 import bs4 as bs
 
-bot = telepot.Bot("673047596:AAFzsT6pR2ZlHwYacX3yRb0_ZyeroBF84EE")
+bot = telepot.Bot("BOT_TOKEN")
 
 whitelist = set("1234567890,")
 
